@@ -1,4 +1,4 @@
-package Excercicio01;
+package Exercicio01;
 // Faça um programa que peça ao usuário nome e sobrenome separadamente
 
 // e após junte-os com a mensagem “Seu nome completo é: Nome

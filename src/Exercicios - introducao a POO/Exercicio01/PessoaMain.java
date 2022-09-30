@@ -1,4 +1,4 @@
-package Excercicio01;
+package Exercicio01;
 
 public class PessoaMain {
     public static void main(String[] args) {
