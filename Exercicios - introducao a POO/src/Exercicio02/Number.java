@@ -1,9 +1,11 @@
+package Exercicio02;
 // Faça um programa que mostre os números que constam no intervalo entre
+
 // dois números que serão informados, se o usuário entrar com os valores em
 // ordem inversa o programa deve fazer dar um aviso ao usuário que irá fazer
 // a inversão.
 
-public class Ex2Number {
+public class Number {
 
     private int numero1;
     private int numero2;

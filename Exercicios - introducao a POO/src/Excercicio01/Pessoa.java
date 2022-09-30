@@ -1,13 +1,15 @@
+package Excercicio01;
 // Faça um programa que peça ao usuário nome e sobrenome separadamente
+
 // e após junte-os com a mensagem “Seu nome completo é: Nome
 // SobreNome”;
 
-public class Ex1Pessoa {
+public class Pessoa {
 
     private String nome;
     private String sobrenome;
 
-    public Ex1Pessoa(String nome, String sobrenome) {
+    public Pessoa(String nome, String sobrenome) {
         setNome(nome);
         setSobrenome(sobrenome);
     }

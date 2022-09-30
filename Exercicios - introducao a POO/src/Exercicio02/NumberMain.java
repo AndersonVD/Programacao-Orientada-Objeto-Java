@@ -1,6 +1,8 @@
-public class Ex2NumberMain {
+package Exercicio02;
+
+public class NumberMain {
     public static void main(String[] args) {
-        Ex2Number numero = new Ex2Number();
+        Number numero = new Number();
         numero.setNumero1(5);
         numero.setNumero2(10);
 
