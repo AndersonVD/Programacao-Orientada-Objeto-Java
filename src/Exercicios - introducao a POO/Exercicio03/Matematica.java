@@ -1,3 +1,5 @@
+package Exercicio03;
+
 public class Matematica {
     int numero1;
     int numero2;

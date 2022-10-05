@@ -34,6 +34,8 @@
 // 0 4
 // Total: R$ 12.40
 
+package Exercicio05;
+
 import java.util.Scanner;
 
 public class Main {

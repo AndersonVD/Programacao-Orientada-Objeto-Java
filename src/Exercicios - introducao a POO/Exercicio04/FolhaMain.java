@@ -16,6 +16,8 @@
 // Utilize métodos para calcular cada um dos descontos, o total de descontos e
 // o salário líquido.
 
+package Exercicio04;
+
 import java.util.Scanner;
 
 public class FolhaMain {

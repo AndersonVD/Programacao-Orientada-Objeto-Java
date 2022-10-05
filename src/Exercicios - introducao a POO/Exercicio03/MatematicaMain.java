@@ -1,7 +1,7 @@
 // Faça um programa que tenha uma função para calcular as quatro operações 
 // básicas de 2 números
 
-// package Exercicio03;
+package Exercicio03;
 
 public class MatematicaMain {
     public static void main(String[] args) {
